@@ -1,0 +1,71 @@
+[
+    {
+        "order_id": "20150111000001",
+        "Fund": {
+            "Recording Fee": "5.00",
+            "Records Management and Preservation Fee": "10.00",
+            "Courthouse Security": "1.00",
+            "Records Archive Fee": "10.00"
+        }
+    },
+    {
+        "order_id": "20150111000001",
+        "Fund": {
+            "Recording Fee": "5.00",
+            "Records Management and Preservation Fee": "10.00",
+            "Courthouse Security": "1.00",
+            "Records Archive Fee": "10.00"
+        }
+    },
+    {
+        "order_id": "20150117000001",
+        "Fund": {
+            "Recording Fee": "5.00",
+            "Records Management and Preservation Fee": "10.00",
+            "Courthouse Security": "1.00",
+            "Records Archive Fee": "10.00"
+        }
+    },
+    {
+        "order_id": "20150117000001",
+        "Fund": {
+            "Recording Fee": "5.00",
+            "Records Management and Preservation Fee": "10.00",
+            "Courthouse Security": "1.00",
+            "Records Archive Fee": "10.00"
+        }
+    },
+    {
+        "order_id": "20150118000001",
+        "Fund": {
+            "Recording Fee": "5.00",
+            "Records Management and Preservation Fee": "10.00",
+            "Courthouse Security": "1.00",
+            "Records Archive Fee": "10.00"
+        }
+    },
+    {
+        "order_id": "20150118000001",
+        "Fund": {
+            "County Clerk Fee": "20.00",
+            "Vital Statistics Preservation Fee": "1.00",
+            "Vital Statistics Fee": "1.00"
+        }
+    },
+    {
+        "order_id": "20150123000001",
+        "Fund": {
+            "County Clerk Fee": "20.00",
+            "Vital Statistics Preservation Fee": "1.00",
+            "Vital Statistics Fee": "1.00"
+        }
+    },
+    {
+        "order_id": "20150123000001",
+        "Fund": {
+            "County Clerk Fee": "20.00",
+            "Vital Statistics Preservation Fee": "1.00",
+            "Vital Statistics Fee": "1.00"
+        }
+    }
+]
